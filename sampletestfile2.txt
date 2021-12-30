@@ -1,12 +1,1 @@
-this is sample file 2
-
-git comparison 2
- sample test file 2 
-
- changes made after stach 
-
- using git stash 
-
-
- using git stash 
-
+ sample test 
