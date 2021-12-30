@@ -6,3 +6,4 @@ using revert
 
 this is comparison file
  sample test 
+ using git stash 1 
